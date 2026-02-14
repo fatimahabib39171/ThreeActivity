@@ -24,13 +24,13 @@ This project is ideal for beginners learning Android development, ConstraintLayo
 ## Screenshots
 
 **Main Screen**  
-![Main Screen](screenshots/screenshot_main.png)
+![Main Screen](screenshots/Welcome.png)
 
 **Login Screen**  
-![Login Screen](screenshots/screenshot_login.png)
+![Login Screen](screenshots/login.png)
 
 **Signup Screen**  
-![Signup Screen](screenshots/screenshot_signup.png)
+![Signup Screen](screenshots/SignUp.png)
 
 ---
 
